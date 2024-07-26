@@ -32,3 +32,10 @@ In the initial data preparation phase, we performed the following
 3. What is the total profit by each segment
 
 4. What is the total sales by ship mode
+
+## Recommendations
+
+1. I recommend delving into sales trends across different regions to identify growth opportunities and potential market expansion strategies.
+
+2. Analyzing customer segments, product performance, and shipping methods can help optimize operations and enhance customer satisfaction.
+
